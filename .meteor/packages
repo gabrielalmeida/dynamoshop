@@ -7,3 +7,9 @@ standard-app-packages
 autopublish
 insecure
 preserve-inputs
+npm
+coffeescript
+jade
+stylus
+iron-router
+blaze-layout

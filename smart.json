@@ -1,11 +1,15 @@
 {
+  "meteor": {
+    "git": "https://github.com/meteor/meteor",
+    "tag": "release/blaze-rc1"
+  },
   "packages": {
     "npm": {},
+    "jade": {},
     "iron-router": {
       "git": "https://github.com/EventedMind/iron-router",
       "branch": "blaze-integration"
     },
-    "jade": {},
     "blaze-layout": {}
   }
 }
