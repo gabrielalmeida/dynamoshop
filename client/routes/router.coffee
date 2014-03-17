@@ -1,5 +1,5 @@
 Router.map () ->
-  @route 'home', {
+  @route 'soon', {
     path: '/',
-    template: 'home'
+    template: 'soon'
   }
