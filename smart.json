@@ -1,0 +1,11 @@
+{
+  "packages": {
+    "npm": {},
+    "iron-router": {
+      "git": "https://github.com/EventedMind/iron-router",
+      "branch": "blaze-integration"
+    },
+    "jade": {},
+    "blaze-layout": {}
+  }
+}

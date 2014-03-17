@@ -1,0 +1,36 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "npm": {},
+      "iron-router": {
+        "git": "https://github.com/EventedMind/iron-router",
+        "branch": "blaze-integration"
+      },
+      "jade": {},
+      "blaze-layout": {}
+    },
+    "packages": {
+      "npm": {
+        "git": "https://github.com/arunoda/meteor-npm.git",
+        "tag": "v0.2.6",
+        "commit": "177ab6118de5bf8cffb19481343d5762ff7a2aaf"
+      },
+      "iron-router": {
+        "git": "https://github.com/EventedMind/iron-router",
+        "branch": "blaze-integration",
+        "commit": "b9feb92be8f2e1bf4bb65b386a53c147878be70e"
+      },
+      "jade": {
+        "git": "https://github.com/mquandalle/meteor-jade.git",
+        "tag": "v0.1.4",
+        "commit": "3d80e6119087ee338dd88249cceedbff7996dda9"
+      },
+      "blaze-layout": {
+        "git": "https://github.com/EventedMind/blaze-layout.git",
+        "tag": "v0.2.1",
+        "commit": "f52f416d6277f27b11832355298553e46b8cc6fd"
+      }
+    }
+  }
+}
