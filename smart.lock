@@ -1,8 +1,8 @@
 {
   "meteor": {
     "git": "https://github.com/meteor/meteor",
-    "tag": "release/blaze-rc1",
-    "commit": "1d3a840372a1d1db6e212d38621288b6cc42a1c7"
+    "tag": "release/0.8.0-rc6",
+    "commit": "1d9c2443e8a6c367d56c1528698159d3d4ecb55d"
   },
   "dependencies": {
     "basePackages": {

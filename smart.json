@@ -1,7 +1,7 @@
 {
   "meteor": {
     "git": "https://github.com/meteor/meteor",
-    "tag": "release/blaze-rc1"
+    "tag": "release/0.8.0-rc6"
   },
   "packages": {
     "npm": {},
