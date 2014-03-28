@@ -1,8 +1,8 @@
 {
   "meteor": {
     "git": "https://github.com/meteor/meteor",
-    "tag": "release/0.8.0-rc6",
-    "commit": "1d9c2443e8a6c367d56c1528698159d3d4ecb55d"
+    "branch": "master",
+    "commit": "886c38bd34ea795a5886297d4c6300816bc85770"
   },
   "dependencies": {
     "basePackages": {
@@ -32,7 +32,7 @@
       "blaze-layout": {
         "git": "https://github.com/EventedMind/blaze-layout.git",
         "branch": "master",
-        "commit": "2664f817844fba0fab0455a79bc62782c9091ad0"
+        "commit": "8bc53798fe5965669ae67c72f91829fcfdceabfd"
       }
     }
   }
